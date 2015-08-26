@@ -3,6 +3,11 @@
   <title>Ant-Man Fanclub</title>
   <style>
   header {
+  text-align: center;
+  background: url("http://dash.ga.co/assets/jeff-bg.png");
+  Background-size: cover;
+  color: white;
+}
 a {
   color: red;
 }
